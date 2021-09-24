@@ -1,0 +1,11 @@
+config/*.json
+app/config/*.json
+app/server.py
+dist/*
+deploy-requirements.txt
+*.pyc
+app/*.pyc
+app/*/*.pyc
+app/*/*/*.pyc
+*.yml
+arqui/*.drawio
